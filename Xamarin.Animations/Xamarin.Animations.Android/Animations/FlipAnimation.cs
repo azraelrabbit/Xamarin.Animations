@@ -1,7 +1,9 @@
+using Android.Graphics;
+using Android.Views.Animations;
 namespace Xamarin.Animations.Droid.Animations
 {
-    using Android.Graphics;
-    using Android.Views.Animations;
+  
+ 
 
     /// <summary>
     /// A flip animation.
