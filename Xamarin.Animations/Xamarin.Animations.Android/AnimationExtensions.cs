@@ -1,10 +1,9 @@
-﻿using Android.Views;
-using System;
+﻿using System;
+using Android.Views;
 
 namespace Xamarin.Animations.Droid
 {
- 
- 
+    
 
     /// <summary>
     /// A set of extensions for quickly animate a UIView with basic template animations (flip, rotate, scale, fade, zoom, ...).
