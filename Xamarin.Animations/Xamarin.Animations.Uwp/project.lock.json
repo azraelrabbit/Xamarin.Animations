@@ -15618,7 +15618,12 @@
       "projectName": "Xamarin.Animations.Uwp",
       "projectPath": "D:\\WorkRoot\\ali-git\\AFORS\\Xamarin.Animations\\Xamarin.Animations\\Xamarin.Animations.Uwp\\Xamarin.Animations.Uwp.csproj",
       "projectJsonPath": "D:\\WorkRoot\\ali-git\\AFORS\\Xamarin.Animations\\Xamarin.Animations\\Xamarin.Animations.Uwp\\project.json",
-      "projectStyle": "ProjectJson"
+      "projectStyle": "ProjectJson",
+      "frameworks": {
+        "uap10.0": {
+          "projectReferences": {}
+        }
+      }
     },
     "dependencies": {
       "Microsoft.NETCore.UniversalWindowsPlatform": "5.1.0"
